@@ -9,4 +9,3 @@ Change from conflict branch
 
 
 
-Line 1: Initial test message
