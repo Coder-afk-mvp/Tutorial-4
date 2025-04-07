@@ -7,3 +7,6 @@ Changes from main for a conflict example
 
 Change from conflict branch
 
+
+
+Changes from week 6 - Tutorial 6
