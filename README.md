@@ -10,7 +10,3 @@ Change from conflict branch
 
 
 Changes from week 6 - Tutorial 6
-
-More changes
-Experimental note
-Oops! Maybe not needed
