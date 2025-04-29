@@ -11,5 +11,9 @@ Change from conflict branch
 
 Line 1: Initial test message
 
-line 2: test
+<<<<<<< HEAD
+=======
+Line 2: More changes
 
+Line 3: Experimental note
+>>>>>>> parent of 2810451 (Conflict)
